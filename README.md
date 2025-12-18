@@ -16,7 +16,7 @@ This is a production-ready **AI Backend System** designed to serve as the "Brain
 - **Storage**: Redis/FAISS (Vector store for RAG)
 - **OCR**: Tesseract (Local binary required)
 
-## Production Setup (For Admin/CEO)
+## Production Setup 
 
 ### 1. Prerequisites
 - **Redis**: Must be running (Port 6379 default).
@@ -51,3 +51,4 @@ This backend exposes the following endpoints for your Frontend/App to connect to
 - `GET /health`: Server status.
 
 > **Note**: This project contains NO frontend. It is a pure API backend.
+
