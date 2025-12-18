@@ -1,7 +1,7 @@
 # Business AI Agent (Backend)
 
 ## Overview
-This is a production-ready **AI Backend System** designed to serve as the "Brain" for multiple businesses. It uses **OpenAI (GPT-4o)** for intelligence and **Redis** for memory/context management.
+**AI Backend System** designed to serve as the "Brain" for multiple businesses. It uses **OpenAI (GPT-4o)** for intelligence and **Redis** for memory/context management.
 
 **Key Capabilities:**
 - **Business Isolation**: Strictly separates data/memory by `business_id`.
@@ -50,5 +50,6 @@ This backend exposes the following endpoints for your Frontend/App to connect to
 - `POST /ingest/text`: Raw text dump.
 - `GET /health`: Server status.
 
-> **Note**: This project contains NO frontend. It is a pure API backend.
+
+
 
