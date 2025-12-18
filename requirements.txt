@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+redis
+python-dotenv
+openai
+pydantic
+pydantic-settings
+python-multipart
+httpx
+beautifulsoup4
+pypdf
+python-docx
+numpy
+faiss-cpu
+requests
+pytesseract
+Pillow
